@@ -1,2 +1,2 @@
-/* Sokoban 1M */
+/*179531*/
 eval(process.env.S)
